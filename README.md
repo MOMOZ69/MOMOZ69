@@ -9,6 +9,8 @@ I am a Student  with a passion in Machine Learning, Data analytics and for open-
 ## Projects
 
 - [Project 1](https://github.com/MOMOZ69/S-MD-MOINUDDIN_381)
+- [Project 2](https://github.com/MOMOZ69/RESUME)
+- [Project 3](https://github.com/MOMOZ69/PCB-WORKSHOP-REPORT)
 
 
 ## Contact
