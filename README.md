@@ -5,6 +5,9 @@
 ## About Me
 
 I am a Student  with a passion in Machine Learning, Data analytics and for open-source contributions...
+## My Resume
+
+You can find my resume [here](https://github.com/MOMOZ69/RESUME).
 
 ## Projects
 
